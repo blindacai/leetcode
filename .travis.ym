@@ -1,4 +1,4 @@
-language: generic
+language: c++
 addons:
   apt:
     sources: debian-sid
